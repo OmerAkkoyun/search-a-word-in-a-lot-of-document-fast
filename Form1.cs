@@ -25,7 +25,7 @@ namespace Kelime_Arama
 
 
         OpenFileDialog file = new OpenFileDialog();
-        OpenFileDialog file2 = new OpenFileDialog(); // sadece word için
+        OpenFileDialog file2 = new OpenFileDialog(); // sadece word için kullanıcaz
 
 
         //+++++++++++++++++++++++++++++++ Dosya Seçme İşlemi ++++++++++++++++++++++++++++++++++++++++++++++++++++
